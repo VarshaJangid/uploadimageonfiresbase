@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "146444564878",
+    "project_id": "kismiss-b1672",
+    "storage_bucket": "kismiss-b1672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146444564878:android:69545374ec5178e12c8cdf",
+        "android_client_info": {
+          "package_name": "com.rayzinfo.kissmiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146444564878-l2mfvh1ekdh6k1fbkvdvrdcfei2u5llr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqg_oTpjfXg2scn3LG0O7S1Y7KJlgF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146444564878-l2mfvh1ekdh6k1fbkvdvrdcfei2u5llr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146444564878-vmblk8fj1drlqvn17acrortbuq0c0nua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rayzinfo.kissmiss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
